@@ -1,9 +1,5 @@
 # 🧠 **AREP - Laboratorio 8: OpenAI**
 
-### **Hello World AI con Python y la API de OpenAI**
-
----
-
 ## 🏫 **Universidad Escuela Colombiana de Ingeniería Julio Garavito**
 
 **Materia:** Arquitecturas Empresariales (AREP)
