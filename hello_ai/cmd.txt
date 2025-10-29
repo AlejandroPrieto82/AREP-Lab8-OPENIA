@@ -1,0 +1,12 @@
+mkdir hello_ai
+cd hello_ai
+python -m venv venv
+venv\Scripts\activate
+pip install openai python-dotenv
+
+
+(En archivo .env) OPENAI_API_KEY=su_clave_aqui
+https://platform.openai.com/account/api-keys
+
+
+python hello_ai.py
