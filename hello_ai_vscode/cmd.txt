@@ -1,0 +1,15 @@
+Crt+Shf+P
+    Python:	Create	Environment
+    Venv
+
+
+pip install openai python-dotenv jupyter ipykernel
+python -m ipykernel install --user --name hello_ai_vscode
+
+
+Crt+Shf+P
+    Jupyter:	Create	New	Jupyter	Notebook
+    setup_hello_ai.ipynb
+    hello_ai_vscode
+
+    

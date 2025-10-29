@@ -416,3 +416,99 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+###############################################################
+# 🐍 Python - Complemento para proyectos que usan Visual Studio
+###############################################################
+
+# Entornos virtuales
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Archivos de configuración de entorno
+*.env
+*.env.*
+
+# Archivos de caché y compilación
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de salida y logs
+*.log
+*.pot
+*.pyproj
+*.cover
+coverage/
+htmlcov/
+nosetests.xml
+coverage.xml
+*.coveragerc
+*.pytest_cache/
+.tox/
+.pytest_cache/
+.cache/
+.pyre/
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribuciones / paquetes
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+share/python-wheels/
+
+# Instalaciones temporales
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Configuración de entorno de desarrollo
+.python-version
+
+# Pyre type checker
+.pyre/
+
+# PyCharm / JetBrains IDEs
+.idea/
+
+# VSCode (Python-specific)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Django / Flask / FastAPI specific
+*.sqlite3
+db.sqlite3
+instance/
+.webassets-cache
+media/
+staticfiles/
+static/
+
+# Otros
+*.mo
+*.pot
