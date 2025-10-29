@@ -1,8 +1,3 @@
-Perfecto 🌟 Aquí tienes **tu documento completo** (Guía 1 y Guía 2) con el mismo estilo limpio, uniforme y profesional que usé antes.
-Ideal para tu informe o README 👇
-
----
-
 # 🧠 AREP - Laboratorio 8: OpenAI
 
 ## **Guía 1 - Hello World AI con Python y la API de OpenAI**
@@ -144,3 +139,32 @@ Se logró configurar correctamente Jupyter Notebook en VS Code
 ---
 
 ## Guia 3
+
+![Ejecucion 1](image-14.png)
+![Ejecucion 2](image-15.png)
+![Eje 3](image-16.png)
+![Ejecucion 4](image-17.png)
+
+---
+Ejercicios
+
+![Ejercicio con temperature = 0.1](image-18.png)
+Temprature 0.1
+{
+  "prompt": "Explica brevemente el principio de funcionamiento de un árbol de decisión.",
+  "respuesta": "Un árbol de decisión es un modelo de aprendizaje automático que utiliza una estructura jerárquica de nodos para representar decisiones y sus posibles consecuencias. Cada nodo interno representa una prueba sobre un atributo, cada rama representa el resultado de la prueba y cada nodo hoja representa una clase o resultado final, permitiendo así clasificar o predecir datos basados en características específicas."
+}
+temprature 0.5
+{
+  "prompt": "Explica brevemente el principio de funcionamiento de un árbol de decisión.",
+  "respuesta": "Un árbol de decisión es un modelo de aprendizaje automático que utiliza una estructura jerárquica para tomar decisiones basadas en características de los datos. Cada nodo interno representa una prueba sobre una característica, cada rama representa el resultado de la prueba y cada hoja representa una decisión o clasificación final, permitiendo así una interpretación clara de las decisiones tomadas."
+}
+
+0.9
+{
+  "prompt": "Explica brevemente el principio de funcionamiento de un árbol de decisión.",
+  "respuesta": "Un árbol de decisión es un modelo de aprendizaje automático que utiliza una estructura jerárquica de nodos para tomar decisiones basadas en preguntas sobre características de los datos. Cada nodo representa una pregunta sobre un atributo, donde las respuestas dividen los datos en subconjuntos, y el proceso continúa hasta alcanzar un resultado o una clase final."
+}
+
+## GUia 4
+
